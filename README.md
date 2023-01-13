@@ -3,13 +3,13 @@ Submission Pengembang Aplikasi Android by Dicoding Academy
 
 Fitur yang harus ada pada aplikasi:
 
-Search User
+1. Search User
 Syarat:
 - Menampilkan list data user dari API menggunakan RecyclerView dengan data minimal foto avatar dan username.
 - Pencarian user menggunakan data dari API berjalan dengan baik.
 - Pengguna dapat melihat halaman detail dari hasil daftar pencarian.
 
-Detail User
+2. Detail User
 Syarat:
 - Terdapat informasi detail dari seorang user. Berikut beberapa informasi yang wajib ditampilkan pada halaman aplikasi:
   - Foto Avatar
@@ -20,4 +20,4 @@ Syarat:
   - Menampilkan fragment List Follower & List Following yang diambil dari API.
   - Menggunakan Tab Layout dan ViewPager sebagai navigasi antara halaman List Follower dan List Following.
 
-Terdapat indikator loading saat aplikasi memuat data di semua halaman (list, detail, following & follower).
+3. Terdapat indikator loading saat aplikasi memuat data di semua halaman (list, detail, following & follower).
